@@ -1,1 +1,1 @@
-# curso_devops_ci, prueba slack
+# curso_devops_ci, prueba sonarqube
